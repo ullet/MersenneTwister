@@ -1,0 +1,4 @@
+cd Source
+echo Compiling MersenneTwister.dll
+mcs -t:library -out:../bin/MersenneTwister.dll -doc:../doc/MersenneTwister.xml MersenneTwisterRandom.cs
+cd ../

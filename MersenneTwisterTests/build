@@ -1,0 +1,10 @@
+# Before running this script make sure that the MersenneTwister.dll 
+# assembly is in the bin folder and nunit.rsp contains the correct
+# path of the nunit.framework.dll assembly.
+cd Source
+echo Compiling MersenneTwisterTests.dll
+mcs @nunit.rsp -t:library -out:../bin/MersenneTwisterTests.dll -lib:../bin/ -r:MersenneTwister.dll MersenneTwisterRandomTests.cs
+cd ../
+echo Running tests
+nunit-console bin/MersenneTwisterTests.dll
+

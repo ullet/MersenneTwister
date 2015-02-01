@@ -9,12 +9,13 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("MersenneTwister")]
 [assembly: AssemblyDescription(
     "A pseudo-random number generator, designed in by Makoto Matsumoto " +
-    "and Takuji Nishimura, adapted to .NET by Trevor Barnett")]
+    "and Takuji Nishimura, adapted to C# by Trevor Barnett")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
 [assembly: AssemblyCopyright(
     "Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, " +
+    "Copyright (C) 2006, 2015, Trevor Barnett, " +
     "All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]		

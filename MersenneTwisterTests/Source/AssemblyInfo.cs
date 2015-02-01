@@ -11,8 +11,8 @@ using System.Runtime.CompilerServices;
     "NUnit tests for the Mersenne Twister pseudo-random number generator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("Copyright (C) 2005  Trevor Barnett")]
+[assembly: AssemblyProduct("MersenneTwister")]
+[assembly: AssemblyCopyright("Copyright (C) 2006, 2015 Trevor Barnett")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]		
 

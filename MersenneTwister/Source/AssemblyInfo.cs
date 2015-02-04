@@ -12,7 +12,7 @@ using System.Runtime.CompilerServices;
     "and Takuji Nishimura, adapted to C# by Trevor Barnett")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("")]
+[assembly: AssemblyProduct("MersenneTwister")]
 [assembly: AssemblyCopyright(
     "Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, " +
     "Copyright (C) 2006, 2015, Trevor Barnett, " +

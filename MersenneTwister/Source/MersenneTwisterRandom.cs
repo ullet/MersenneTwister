@@ -15,7 +15,7 @@
 
 using System;
 
-namespace Utilities
+namespace MersenneTwister
 {
     /// <summary>
     /// Random number generator using Mersenne Twister algorithm

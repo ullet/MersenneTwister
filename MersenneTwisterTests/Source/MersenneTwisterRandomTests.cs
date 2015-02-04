@@ -19,9 +19,9 @@ using System;
 
 using NUnit.Framework;
 
-using Utilities;
+using MersenneTwister;
 
-namespace UtilitiesTests
+namespace MersenneTwisterTests
 {
     [TestFixture]
     public class MersenneTwisterRandomTests

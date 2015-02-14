@@ -7,7 +7,6 @@
    information and for the original C code.
 
    Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,
-   Copyright (C) 2006, 2015, Trevor Barnett,
    All rights reserved.
    
    Released under a BSD-style license.  See LICENSE for details.

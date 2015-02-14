@@ -8,14 +8,13 @@ using System.Runtime.CompilerServices;
 //
 [assembly: AssemblyTitle("MersenneTwister")]
 [assembly: AssemblyDescription(
-    "A pseudo-random number generator, designed in by Makoto Matsumoto " +
-    "and Takuji Nishimura, adapted to C# by Trevor Barnett")]
+    "A pseudo-random number generator, designed by Makoto Matsumoto " +
+    "and Takuji Nishimura, adapted to C# by Trevor Barnett, February 2006")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MersenneTwister")]
 [assembly: AssemblyCopyright(
     "Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura, " +
-    "Copyright (C) 2006, 2015, Trevor Barnett, " +
     "All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]		
